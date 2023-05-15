@@ -3,8 +3,6 @@
 - 🧑‍💻 I’m currently working on Python
 - 📖 I’m currently learning Django 
 - 🫶 I want to collaborate with projects in Python 
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ct3cthr33
 - ⚡ About me: Technology enthusiast working in the IT area for over 20 years
 
