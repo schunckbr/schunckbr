@@ -1,8 +1,7 @@
 ### Ola me chamo Marcelo Schunck 👋
 
-- 🧑‍💻 I’m currently working on Python
-- 📖 I’m currently learning Django 
-- 🫶 I want to collaborate with projects in Python 
+- 🧑‍💻 I’m currently working on PHP and Laravel
+- 📖 I’m currently learning AI 
 - 😄 Pronouns: ct3cthr33
 - ⚡ About me: Technology enthusiast working in the IT area for over 20 years
 
