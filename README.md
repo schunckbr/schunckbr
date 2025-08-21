@@ -1,9 +1,12 @@
 ### Ola me chamo Marcelo Schunck 👋
 
-- 🧑‍💻 I’m currently working on PHP and Laravel
-- 📖 I’m currently learning AI 
-- 😄 Pronouns: ct3cthr33
-- ⚡ About me: Technology enthusiast working in the IT area for over 20 years
+💻 I’m currently working on PHP, Laravel, Vue 3, NestJS, and AI
+
+📖 I’m currently learning AI
+
+😄 Pronouns: ct3cthr33
+
+⚡ About me: Technology enthusiast working in the IT area for over 20 years
 
 <div>
     <a href="https://github.com/schunckbr">
